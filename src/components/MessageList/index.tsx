@@ -3,7 +3,7 @@ import styles from './styles.module.scss';
 
 import logoImg from '../../assets/logo.svg';
 import { api } from '../../services/api';
-import { TMessage } from '../../types/Message';
+import { TMessage } from '../../types/TMessage';
 
 export function MessageList () {
     const [messages, setMessages] = useState<TMessage[]>([])
