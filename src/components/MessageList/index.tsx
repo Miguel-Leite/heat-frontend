@@ -13,7 +13,7 @@ const socket = io('http://localhost:4000');
 
 socket.on('new_message', (newMessage: TMessage) => {
   messageQueue.push(newMessage)
-})
+});
 
 export function MessageList () {
     const [messages, setMessages] = useState<TMessage[]>([])
@@ -37,6 +37,8 @@ export function MessageList () {
             setMessages(response.data)
         })
     },[])
+
+    console.log(messages)
 
     return (
         <div className={styles.messageListWrapper}>
