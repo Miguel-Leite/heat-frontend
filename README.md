@@ -43,7 +43,7 @@
 
 DOWhile é uma aplicação onde usuário pode enviar varias mensagens, compartilhando as suas espetativas sobre o DOWhile o que ele está apredendo ao longo da sua carreira como DEV e desse jeito vai colocando as suas mensagens, nesta mesma plataforma que é a DOWhile.
 
-<img src="public/screen.svg" width="600" />
+<img src="public/screen.svg" width="800" />
 
 ## Funcionalidades ##
 
