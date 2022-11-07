@@ -10,13 +10,10 @@
 
 <center>
   
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
-
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
 
 </center>
 
@@ -29,64 +26,58 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Executar</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Miguel-Leite" target="_blank">Author</a>
+  <a href="https://github.com/Miguel-Leite" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## About ##
+## Sobre ##
 
-Describe your project
+DOWhile é uma aplicação onde usuário pode enviar varias mensagens, compartilhando as suas espetativas sobre o DOWhile o que ele está apredendo ao longo da sua carreira como DEV e desse jeito vai colocando as suas mensagens, nesta mesma plataforma que é a DOWhile.
 
-## Features ##
+## Funcionalidades ##
 
 - [x] - Envio de mensagem em realtime (websocket)
 - [x] - Listar as 3 ultimas mensagens enviadas
 - [x] - Autenticação com GITHUB
 
-## Technologies ##
+## Tecnologias ##
 
 Para o desenvolvimento desse projecto utilizou-se:
 
-- ### Front-End
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-  - [React](https://pt-br.reactjs.org/)
-  - [TypeScript](https://www.typescriptlang.org/)
-
-- ### Back-End
-
-  - [Node.js](https://nodejs.org/en/)
-
-## Requirements ##
+## Requisitos ##
 
 Antes de inicializar o projecto, precisas ter o [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instalado na sua máquina.
 
-## Starting ##
+## Executar ##
 
 ```bash
-# Clone this project
+# Clone do projecto
 $ git clone https://github.com/Miguel-Leite/heat
 
-# Access
+# Acessar a pasta
 $ cd heat
 
-# Install dependencies
+# Instalar as depedências
 $ yarn
 
-# Run the project
+# Executar o projecto
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# O servidor será inicializado no <http://localhost:3000>
 ```
 
 ## License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
 
 Made with :heart: by <a href="https://github.com/Miguel-Leite" target="_blank">Miguel Leite</a>
