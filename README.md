@@ -26,12 +26,12 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Executar</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#sobre">Sobre</a> &#xa0; | &#xa0;
+  <a href="#funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#executar">Executar</a> &#xa0; | &#xa0;
+  <a href="#license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/Miguel-Leite" target="_blank">Autor</a>
 </p>
 
