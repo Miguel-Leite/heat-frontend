@@ -11,6 +11,8 @@
 <span align="center">
   
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
@@ -41,6 +43,8 @@
 
 DOWhile é uma aplicação onde usuário pode enviar varias mensagens, compartilhando as suas espetativas sobre o DOWhile o que ele está apredendo ao longo da sua carreira como DEV e desse jeito vai colocando as suas mensagens, nesta mesma plataforma que é a DOWhile.
 
+<img src="./public/screen.svg" width="600" />
+
 ## Funcionalidades ##
 
 - [x] - Envio de mensagem em realtime (websocket)
@@ -51,12 +55,15 @@ DOWhile é uma aplicação onde usuário pode enviar varias mensagens, compartil
 
 Para o desenvolvimento desse projecto utilizou-se:
 
+- [vite](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+- [Socket.io](https://socket.io/docs/v4/client-installation/)
 
 ## Requisitos ##
 
-Antes de inicializar o projecto, precisas ter o [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instalado na sua máquina.
+Antes de inicializar o projecto, é necessário que tenhas o [Git](https://git-scm.com) & [Node](https://nodejs.org/en/) instalado na sua máquina.
 
 ## Executar ##
 
